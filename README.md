@@ -55,7 +55,6 @@
 
 > Atualize os links abaixo com os repositórios reais do seu GitHub.
 
-## 🚀 Projetos
 
 ## 🚀 Projetos
 
