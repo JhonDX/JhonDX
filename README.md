@@ -55,14 +55,11 @@
 
 > Atualize os links abaixo com os repositórios reais do seu GitHub.
 
-| Projeto | Descrição |
-|---|---|
-| 🏥 **Sistema de Cadastro de Pacientes** | Sistema PHP/Docker/MySQL para cadastro de pacientes e acompanhantes, inspirado no GACC-BA |
-| 📊 **Dashboard Commvault** | Dashboard próprio consumindo a API v4 do Commvault, com autenticação automática |
-| 🔁 **Replicador Firebird** | Replicação em tempo real entre bancos Firebird 3.0 |
-| 💰 **Site de Gastos do Casal** | Controle de despesas recorrentes, cartões e investimentos, sem necessidade de login |
-| 🖥️ **Container sem Docker** | Estudo prático de containers usando namespaces, cgroups e chroot/pivot_root direto do Linux |
-| 📚 **Plataforma de Estudos** | Planejamento e acompanhamento de estudos com calendário, roteiro automático e gamificação |
+## 🚀 Projetos
+
+| Projeto                            | Descrição                                                                                                                                                                 | 🔗 Link                                     |
+| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
+| 🏥 **Disaster Recovery – GACC-BA** | Infraestrutura em nuvem desenvolvida para recuperação de sistemas e serviços do **GACC-BA**, utilizando práticas de **Cloud, DevOps e Infraestrutura como Código (IaC)**. | [🔗 Acessar projeto](https://github.com/JhonDX/disaster_recovey.git) |
 
 ---
 
