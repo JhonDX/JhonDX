@@ -30,7 +30,7 @@
 ### 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,docker,terraform,aws,git,github,python,nginx,windows,docker,kubernets" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,terraform,aws,git,github,python,nginx,windows,docker,k8s" />
 </p>
 
 **Infraestrutura & Redes**
