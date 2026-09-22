@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou o Jonatas 👋</h1>
 
-<h3 align="center">Desenvolvedor Full Stack & Infraestrutura | Em transição para DevOps/SysAdmin</h3>
+<h3 align="center">DevOps/SysAdmin</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jonatas-menezes-17a2601b9" target="_blank">
@@ -30,7 +30,7 @@
 ### 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,docker,terraform,aws,git,github,php,nodejs,react,nextjs,vue,vite,fastapi,python,postgres,mysql,sqlite,nginx,windows,docker,cs,ts,js" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,terraform,aws,git,github,python,nginx,windows,docker" />
 </p>
 
 **Infraestrutura & Redes**
