@@ -57,13 +57,12 @@
 
 ## 🚀 Projetos
 
-| Projeto                            | Descrição                                                                                                                                                                 | 🔗 Link                                     |
-| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
-| 🏥 **Disaster Recovery – GACC-BA** | Infraestrutura em nuvem desenvolvida para recuperação de sistemas e serviços do **GACC-BA**, utilizando práticas de **Cloud, DevOps e Infraestrutura como Código (IaC)**. | [🔗 Acessar projeto](https://github.com/JhonDX/disaster_recovey.git) |
-🎮 SNES Web Emulator
-Emulador de Super Nintendo (SNES) desenvolvido para a Web, permitindo executar jogos diretamente no navegador.
-🔗 Ver projeto
----
+## 🚀 Projetos
+
+| Projeto                            | Descrição                                                                                                                                                                 | 🔗 Link                                                          |
+| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| 🏥 **Disaster Recovery – GACC-BA** | Infraestrutura em nuvem desenvolvida para recuperação de sistemas e serviços do **GACC-BA**, utilizando práticas de **Cloud, DevOps e Infraestrutura como Código (IaC)**. | [🔗 Acessar projeto](https://github.com/JhonDX/disaster_recovey) |
+| 🎮 **SNES Web Emulator**           | Emulador de **Super Nintendo (SNES)** desenvolvido para a Web, permitindo executar jogos diretamente no navegador.                                                        | [🔗 Acessar projeto](https://github.com/JhonDX/Snes_web)         |
 
 ### 📈 Estatísticas do GitHub
 
