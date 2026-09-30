@@ -60,6 +60,7 @@
 | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
 | 🏥 **Disaster Recovery – GACC-BA** | Infraestrutura em nuvem desenvolvida para recuperação de sistemas e serviços do **GACC-BA**, utilizando práticas de **Cloud, DevOps e Infraestrutura como Código (IaC)**. | [🔗 Acessar projeto](https://github.com/JhonDX/disaster_recovey) |
 | 🎮 **SNES Web Emulator**           | Emulador de **Super Nintendo (SNES)** desenvolvido para a Web, permitindo executar jogos diretamente no navegador.                                                        | [🔗 Acessar projeto](https://github.com/JhonDX/Snes_web)         |
+| 🎮 **Estudos**           | Repositório criado para estudo de DevOps.   | [🔗 Acessar projeto](https://github.com/JhonDX/DevOps_Linux)         |
 
 ### 📈 Estatísticas do GitHub
 
