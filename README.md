@@ -19,8 +19,6 @@
 ### 🚀 Sobre mim
 
 - 🔧 Atuo há mais de **5 anos** como Técnico de Informática no **GACC-BA** (ONG de oncologia pediátrica), cuidando de redes, servidores, virtualização e infraestrutura
-- 💻 Construo **ferramentas internas e aplicações web** sob medida para organizações — de sistemas de cadastro a dashboards e replicadores de banco
-- 🤝 Empreendo em parceria: cuido da parte técnica enquanto meu sócio cuida das vendas
 - ☁️ Cursando **Computação em Nuvem** (Anhanguera) — conclusão prevista para 2027
 - 🎯 Buscando migrar para uma posição de **DevOps ou SysAdmin**
 - 🐧 Trabalho no dia a dia em múltiplas máquinas Linux (Fedora e Ubuntu)
