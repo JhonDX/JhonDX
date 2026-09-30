@@ -28,7 +28,7 @@
 ### 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,docker,terraform,aws,git,github,python,nginx,windows,docker,k8s" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,terraform,aws,k8s,git,github,python,nginx,windows" />
 </p>
 
 **Infraestrutura & Redes**
